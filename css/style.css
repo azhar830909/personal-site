@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/bd/af/76/bdaf7600ad567b8251d9951c5e397420.jpg);
+}
+hr{
+  border-style: dotted none none;
+  border-width: 3mm;
+  color: #f5f5dc;
+  width: 7%
+  }
+  img:hover{
+    border-radius:10mm;
+    transform: scale(200%);
+    transition-duration: 2s;
+  }
+  h1{
+    height: 10mm;
+  }
